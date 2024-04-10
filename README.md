@@ -9,7 +9,7 @@
 - Mircosoft PowerPoint
 - Tableau
 
-## Project Details See Files
+## Project Details See Files[https://github.com/jyin16/Walt-Disney-Project/blob/9c0e7c91e49bedfdad3508fc0802e76d1caff71a/Walt-Disney-compressed.pdf]
 - Link to Tableau Dashboard: https://public.tableau.com/views/ad654_final_16918100318810/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Conclusion
